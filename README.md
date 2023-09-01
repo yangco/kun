@@ -1,9 +1,9 @@
 # Kun -  alternative to kdb+
 
-## The goal of kun is to replace 100% of kdb+.
+## 100%  kdb+ compatible
 
 ### What is kun?
-kdb+ is very good but too expensive, so I developed kun, 100% compatible with kdb+, completely free for personal use, no licence restrictions, welcome to use and make suggestions for improvement. thanks!
+kdb+ is very good but too expensive, so I developed kun, 100% kdb+ compatible, completely free for personal use, no licence restrictions, welcome to use and make suggestions for improvement. thanks!
 
 Currently more than 95% of the functionality of kdb+ has been completed. I tested all the examples I know of and they all work well, including the kx dash and kx developer apps. 
 
